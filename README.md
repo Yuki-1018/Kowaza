@@ -1,2 +1,6 @@
-# Install-apps-on-school-iPad
-Force the installation of apps on iPads where installation is denied by Meraki MDM
+# About
+一部の学校のiPadはMeraki MDMを使用してアプリをインストールできないように制限しています。したがってみんなアプリを入れようと試行錯誤しますが、MDMが強力であり
+なかなか突破することはできません。ただこの手順を踏むことでアプリをインストールできます。ただしこれは一時的なものに過ぎないことを理解してください。
+#手順
+##必要条件
+学校のWiFiのパスワードがわかること

@@ -17,7 +17,7 @@ Safariを使用することをお勧めします。
 [ダウンロード](https://yuki-1018.github.io/School-iPad/NextDNS.zip)
 >Macは一応curlコマンドでもできる
 ```
-curl -O
+curl -O https://yuki-1018.github.io/School-iPad/NextDNS.zip
 ```
 #### ファイルアプリを開く
 ダウンロードフォルダを開きます。  

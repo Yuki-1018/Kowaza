@@ -14,7 +14,7 @@ Meraki MDMでアプリのインストールを制限されたiPadにアプリを
 #### まずは必要なファイルをダウンロード
 Safariを使用することをお勧めします。  
 以下のダウンロードボタンを押してファイルをダウンロードします。  
-[ダウンロード](https://pages.github.com/)
+[ダウンロード](https://yuki-1018.github.io/School-iPad/NextDNS.zip)
 >Macは一応curlコマンドでもできる
 ```
 curl -O

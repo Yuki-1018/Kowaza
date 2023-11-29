@@ -77,7 +77,7 @@ AirDropで学校のiPadに送ると
 そして右上の信頼ボタンを押す。
 
 # サポート
-分からないことがありましたら私の[LINE](https://lin.ee/2sTmgLb)まで。  
+分からないこと、出来ないという文句がありましたら私の[LINE](https://lin.ee/2sTmgLb)まで。  
 画像での解説もできます。
 ©Yuki Mima
 

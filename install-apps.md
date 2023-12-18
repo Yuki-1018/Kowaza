@@ -14,4 +14,8 @@ yum -y install squid
 systemctl start squid
 systemctl enable squid
 ```
-## 設定ファイルの
+## 設定ファイルの編集
+ブラックリストの追加をします。
+```
+vim /etc/squid/squid.conf
+```

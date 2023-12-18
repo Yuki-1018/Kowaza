@@ -14,3 +14,4 @@ yum -y install squid
 systemctl start squid
 systemctl enable squid
 ```
+## 設定ファイルの

@@ -29,9 +29,23 @@ acl blacklist dstdomain "/etc/squid/blacklist"
 http_access deny blacklist
 http_access allow all
 ```
-:wqコマンドで保存し次にブラックリストのファイルを記述します。
+:wqコマンドで保存し次にブラックリストのファイルを追加します。
 ```
 cd /etc/squid/
 touch blacklist
 vim blacklist
 ```
+ブラックリストの記述例です。
+必ず前頭にドットを入れてください。
+ブラックリストに追加したドメインへアクセスできなくなります。
+```
+.example.com
+.google.com
+.yahoo.co.jp
+```
+## squidを再起動して完了
+```
+systemctl restart squid
+```
+# プロキシ設定（クライアント側）
+PCのグローバルIPアドレスとポート番号3128でログインしてください。ユーザー名、パスワードは入力しないでください。

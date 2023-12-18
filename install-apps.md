@@ -19,3 +19,19 @@ systemctl enable squid
 ```
 vim /etc/squid/squid.conf
 ```
+下記のところのコメントアウトを外してください。
+```
+cache_dir ufs /var/spool/squid 100 16 256
+```
+そして最上部に下記のものを付け足してください。
+```
+acl blacklist dstdomain "/etc/squid/blacklist"
+http_access deny blacklist
+http_access allow all
+```
+:wqコマンドで保存し次にブラックリストのファイルを記述します。
+```
+cd /etc/squid/
+touch blacklist
+vim blacklist
+```

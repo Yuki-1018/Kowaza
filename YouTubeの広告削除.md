@@ -18,4 +18,6 @@ YouTube改造アプリである uYou Enhancedのインストール方法です�
 - Scarletがインストールされたら　設定<一般<VPNとデバイス管理<エンタープライズApp<〜を信頼を押す。
 
 #### 2 uYou Enhancedのダウンロード
-
+- [ここ](https://github.com/arichornlover/uYouEnhanced/releases)から最新バージョンのuYouEnhanced_〜.ipaをタップしてダウンロードする。
+#### 3 uYou Enhancedのインストール
+- ホーム画面にあるScarletを開きます。

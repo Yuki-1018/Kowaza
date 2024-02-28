@@ -8,5 +8,6 @@ androidはiOSと違いアプリの署名は必要なく、ネット上で配布�
 古いバージョンは、設定<セキュリティ<提供元不明のアプリのインストールを許可するをオンにします。  
 #### 2 apkファイルを入手する
 APKファイルがダウンロードできるサイトはいくつかありますが、主なサイトを紹介します。  
-[Google](https://www.google.co.jp/)  
-[Google](https://www.google.co.jp/)  
+[ApkPure](https://apkpure.net/jp/)  
+[APKCombo](https://apkcombo.com/ja/)  
+#### 3 インストール

@@ -22,3 +22,4 @@ YouTube改造アプリである uYou Enhancedのインストール方法です�
 #### 3 uYou Enhancedのインストール
 - ホーム画面にあるScarletを開きます。
 - 下のバーから真ん中のものを選ぶ。
+!(test)[s.jpg]
